@@ -1,0 +1,26 @@
+# LEY 19/2013: TRANSPARENCIA Y BUEN GOBIERNO
+
+## Ámbito de aplicación (Art. 2)
+Se aplica a la AGE, Administraciones de CC.AA. y Entidades Locales, Casa Real, Congreso, Senado, TC, etc.
+
+## Publicidad Activa (Arts. 5-8)
+Obligación de publicar información institucional, organizativa, jurídica y económica sin necesidad de solicitud previa. Debe ser en formatos reutilizables.
+
+## Derecho de Acceso (Arts. 12-22)
+- Todas las personas tienen derecho a acceder a la información pública.
+- No requiere motivación.
+- **Límites (Art. 14):** Seguridad nacional, defensa, relaciones exteriores, seguridad pública, intereses económicos, etc.
+- **Protección de Datos (Art. 15):** Si la información contiene datos personales especialmente protegidos, solo se dará acceso con consentimiento o si se disocian.
+
+# LEY ORGÁNICA 3/2018 (LOPDGDD)
+
+## Principios de Protección de Datos (Art. 4-10)
+- Exactitud, Confidencialidad.
+- Consentimiento: Debe ser una acción afirmativa.
+- **Menores:** 14 años es la edad mínima para consentir por sí mismos (Art. 7).
+
+## Derechos de las personas (Arts. 12-18)
+- Acceso, Rectificación, Supresión (Olvido), Limitación, Portabilidad y Oposición.
+
+## Derechos Digitales (Título X)
+- Neutralidad de Internet, Desconexión digital laboral, Testamento digital, Educación digital.

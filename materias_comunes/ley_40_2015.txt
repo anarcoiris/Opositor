@@ -1,0 +1,32 @@
+# LEY 40/2015, DE 1 DE OCTUBRE, DE RÉGIMEN JURÍDICO DEL SECTOR PÚBLICO
+
+(Selección de Títulos I y II para estudio)
+
+## TÍTULO I. Administración General del Estado
+
+### CAPÍTULO I. Organización administrativa
+- **Órganos superiores:** Ministros y Secretarios de Estado.
+- **Órganos directivos:** Subsecretarios, Secretarios Generales, Secretarios Generales Técnicos y Directores Generales.
+- **Unidades administrativas:** Elementos organizativos básicos.
+
+### CAPÍTULO II. Los Ministerios y su estructura interna
+- **Ministros:** Jefes superiores del Departamento y miembros del Gobierno.
+- **Secretarios de Estado:** Responsables de la ejecución de la acción del Gobierno en un sector de actividad específica.
+- **Subsecretarios:** Ostentan la representación ordinaria del Ministerio y dirigen los servicios comunes.
+- **Secretarios Generales Técnicos:** Bajo la dependencia del Subsecretario, tienen competencias sobre servicios comunes.
+- **Directores Generales:** Titulares de los órganos directivos encargados de la gestión de una o varias áreas funcionalmente homogéneas.
+
+### CAPÍTULO III. Órganos territoriales
+- **Delegados del Gobierno:** Representan al Gobierno en la Comunidad Autónoma.
+- **Subdelegados del Gobierno:** En cada provincia (bajo la dependencia del Delegado).
+- **Directores Insulares:** En las islas que se determine reglamentariamente.
+
+## TÍTULO II. Organización y funcionamiento del sector público institucional
+
+### CAPÍTULO III. Organismos públicos estatales
+- **Organismos Autónomos (O.A.):** Se rigen por el Derecho Administrativo. Encomiendan actividades administrativas, de fomento o gestión de servicios públicos. Ej: INTA (históricamente), pero muchos OPIs son este tipo.
+- **Entidades Públicas Empresariales (E.P.E.):** Se rigen por el Derecho Privado (salvo en formación de voluntad de órganos y ejercicio de potestades administrativas). Realizan actividades prestacionales o gestión de servicios de contenido económico.
+- **Agencias Estatales:** (Recuperadas por Ley 11/2020). Entidades con mayor autonomía de gestión y control por objetivos.
+
+### NOTA SOBRE LOS OPIS (Organismos Públicos de Investigación)
+Los OPIs tienen la consideración de organismos públicos (normalmente organismos autónomos o agencias) de acuerdo con su Ley de creación y la Ley de la Ciencia.

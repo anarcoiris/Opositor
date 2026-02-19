@@ -1,0 +1,43 @@
+# LEY 39/2015 (LPAC): EL PROCEDIMIENTO ADMINISTRATIVO COMÚN
+
+## 1. Los Interesados (Título I)
+- **Capacidad de obrar:** Personas físicas/jurídicas, menores con capacidad según ley civil y grupos de afectados.
+- **Concepto de interesado:**
+    - Quienes lo promuevan como titulares de derechos.
+    - Quienes tengan derechos que puedan resultar afectados por la decisión.
+    - Aquellos cuyos intereses legítimos puedan resultar afectados y se personen.
+
+## 2. Plazos y Términos (Título II)
+- **Días hábiles:** Se excluyen sábados, domingos y festivos (Novedad 2015: sábados inhábiles).
+- **Dómputo:**
+    - *Por días:* Comienza el día siguiente a la notificación.
+    - *Por meses/años:* De fecha a fecha.
+
+## 3. El Acto Administrativo (Título III)
+- **Requisitos:** Producidos por el órgano competente, siguiendo el procedimiento.
+- **Motivación (Art. 35):** Obligatoria para actos que limiten derechos, resuelvan recursos, se separen de dictámenes, etc.
+- **Nulidad (Art. 47):** Vicios muy graves (lesión de derechos fundamentales, orfandad total de procedimiento).
+- **Anulabilidad (Art. 48):** Cualquier infracción del ordenamiento, incluido el exceso de poder.
+
+## 4. Fases del Procedimiento (Título IV)
+1. **Inicio:** De oficio o a solicitud del interesado.
+2. **Ordenación:** Expediente administrativo electrónico.
+3. **Instrucción:** Alegaciones, Informes, Pruebas y Audiencia al interesado.
+4. **Finalización:** Resolución, desistimiento, renuncia o caducidad.
+
+## 5. El Silencio Administrativo (Art. 24 y 25)
+- **En procedimientos a solicitud:** La regla general es el **Silencio Positivo** (Estimatorio).
+- **Excepciones (Silencio Negativo):**
+    - Ejercicio del derecho de petición.
+    - Actividades que dañen el medio ambiente.
+    - Procedimientos de responsabilidad patrimonial.
+    - Impugnación de actos y disposiciones (Recursos).
+
+- **En procedimientos de oficio:**
+    - Si puede derivar en derechos: Silencio negativo.
+    - Si es sancionador o limitativo: **Caducidad**.
+
+## 6. Recursos Administrativos (Título V)
+1. **Alzada:** Contra actos que no agotan la vía administrativa. Se interpone ante el superior jerárquico.
+2. **Reposición:** Potestativo, ante el mismo órgano que dictó el acto (si agota vía administrativa).
+3. **Extraordinario de Revisión:** Casos tasados de error de hecho o documentos nuevos.

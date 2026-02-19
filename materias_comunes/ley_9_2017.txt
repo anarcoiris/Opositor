@@ -1,0 +1,30 @@
+# LEY 9/2017 (LCSP): CONTRATOS DEL SECTOR PÚBLICO
+
+## 1. Tipos de Contratos (Art. 12-18)
+- **Obras:** Construcción o ingeniería civil.
+- **Suministro:** Adquisición, arrendamiento o leasing de productos.
+- **Servicios:** Prestaciones de hacer (actividades).
+- **Concesión de Obras / Servicios:** El contratista asume el "riesgo operacional".
+- **Mixtos:** Combinan varios de los anteriores.
+
+## 2. Contratos Menores (Art. 118)
+Procedimiento simplificado para importes bajos:
+- **Obras:** < 40.000 € (sin IVA).
+- **Suministros y Servicios:** < 15.000 € (sin IVA).
+- *Requisito:* Informe del órgano de contratación justificando la necesidad y que no se está fraccionando el objeto del contrato.
+
+## 3. Umbrales SARA (Sujetos a Regulación Armonizada)
+Contratos con publicidad europea por su alto importe:
+- **Obras y Concesiones:** ≥ 5.382.000 € (variable según actualización).
+- **Suministros y Servicios (AGE):** ≥ 140.000 €.
+- **Suministros y Servicios (Otros entes):** ≥ 215.000 €.
+
+## 4. Procedimientos de Adjudicación
+1. **Abierto:** Cualquier empresario puede presentar proposición.
+2. **Restringido:** Solo pueden presentar proposiciones los empresarios seleccionados por la Administración tras una solicitud.
+3. **Licitación con negociación:** En casos específicos donde hay que negociar los términos.
+4. **Diálogo competitivo:** Para proyectos muy complejos.
+5. **Asociación para la innovación:** Para desarrollar productos/servicios inexistentes en el mercado.
+
+## 5. El Perfil del Contratante (Art. 63)
+Ubicado en la Plataforma de Contratación del Sector Público, es donde se agrupa la información de las licitaciones para asegurar la transparencia.
