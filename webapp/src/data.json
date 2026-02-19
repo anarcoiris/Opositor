@@ -1,0 +1,1291 @@
+{
+  "topics": [
+    {
+      "id": "1",
+      "title": "Constitución y Género",
+      "content": "# Resumen Tema 1: La Constitución Española de 1978 y Políticas de Igualdad\n\n## 1. La Constitución Española de 1978\n- **Fecha de aprobación:** 31 de octubre de 1978 (Cortes).\n- **Fecha de ratificación:** 6 de diciembre de 1978 (Referéndum).\n- **Fecha de sanción y promulgación:** 27 de diciembre de 1978 (Rey).\n- **Entrada en vigor:** 29 de diciembre de 1978 (Publicación en BOE).\n\n### Estructura\n- **Preámbulo** (sin fuerza jurídica).\n- **Título Preliminar** (Arts. 1-9): Valores superiores (libertad, justicia, igualdad, pluralismo).\n- **Título I:** Derechos y Deberes Fundamentales (pilar del examen).\n- **169 Artículos.**\n- **4 Disposiciones Adicionales, 9 Transitorias, 1 Derogatoria, 1 Final.**\n\n## 2. Derechos Fundamentales y Libertades Públicas (Título I)\n- **Art. 10:** Dignidad de la persona como fundamento.\n- **Art. 14:** Igualdad ante la ley (Prohibición de discriminación).\n- **Sección 1ª (Arts. 15-29):** Máxima protección (Recurso de Amparo, Ley Orgánica). Ej: Derecho a la vida, libertad religiosa, tutela judicial efectiva.\n- **Sección 2ª (Arts. 30-38):** Derechos y deberes de los ciudadanos. Ej: Matrimonio, propiedad privada.\n\n## 3. Políticas de Igualdad de Género\n### Ley Orgánica 3/2007 (Igualdad Efectiva)\n- **Principio de igualdad de trato:** Ausencia de discriminación directa o indirecta por razón de sexo.\n- **Acciones positivas:** Medidas en favor de las mujeres para corregir desigualdades patentes.\n- **Acoso sexual y por razón de sexo:** Definidos como actos discriminatorios.\n- **Igualdad en el empleo:** Planes de igualdad (obligatorios para empresas de >50 trabajadores).\n\n### Ley Orgánica 1/2004 (Violencia de Género)\n- **Objeto:** Protección contra la violencia ejercida sobre las mujeres por parte de quienes sean o hayan sido sus cónyuges o relaciones de afectividad.\n- **Medidas:** Protección integral (educativa, sanitaria, judicial).\n- **Derechos de las víctimas:** Información, asistencia jurídica, apoyo social.\n\n### Ley 4/2023 (Igualdad Trans y LGTBI)\n- Consagra la autodeterminación de género y prohíbe las terapias de conversión.\n- Protege contra la discriminación por orientación sexual o identidad de género.\n\n## 4. Ley 39/2006 (Autonomía Personal y Dependencia)\n- Establece el Sistema para la Autonomía y Atención a la Dependencia (SAAD).\n- **Grados de dependencia:** I (Moderada), II (Severa), III (Gran Dependencia).\n",
+      "quiz": [
+        {
+          "id": "1",
+          "text": "¿En qué fecha entró en vigor la Constitución Española de 1978?**",
+          "options": [
+            "A) 6 de diciembre de 1978.",
+            "B) 27 de diciembre de 1978.",
+            "C) 29 de diciembre de 1978.",
+            "D) 1 de enero de 1979."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "2",
+          "text": "Según el Artículo 1 de la Constitución, la soberanía nacional reside en:**",
+          "options": [
+            "A) Las Cortes Generales.",
+            "B) El Rey.",
+            "C) El Gobierno de la Nación.",
+            "D) El pueblo español."
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "3",
+          "text": "¿Cuál de los siguientes no es un valor superior del ordenamiento jurídico español?**",
+          "options": [
+            "A) La seguridad jurídica.",
+            "B) La libertad.",
+            "C) La justicia.",
+            "D) El pluralismo político."
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "4",
+          "text": "¿Qué artículo de la Constitución consagra la igualdad ante la ley sin discriminación?**",
+          "options": [
+            "A) Artículo 1.",
+            "B) Artículo 10.",
+            "C) Artículo 14.",
+            "D) Artículo 15."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "5",
+          "text": "¿Qué ley regula la Igualdad Efectiva de Mujeres y Hombres?**",
+          "options": [
+            "A) Ley Orgánica 1/2004.",
+            "B) Ley Orgánica 3/2007.",
+            "C) Ley 39/2006.",
+            "D) Ley 4/2023."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "6",
+          "text": "La discriminación que se produce cuando una disposición aparentemente neutra pone a personas de un sexo en desventaja particular se denomina:**",
+          "options": [
+            "A) Discriminación directa.",
+            "B) Discriminación positiva.",
+            "C) Discriminación inversa.",
+            "D) Discriminación indirecta."
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "7",
+          "text": "Según la Ley Orgánica 1/2004, las medidas de protección integral contra la violencia de género se dirigen a:**",
+          "options": [
+            "A) Todo tipo de violencia en el ámbito familiar.",
+            "B) Violencia sobre mujeres por parte de parejas o ex-parejas.",
+            "C) Violencia infantil exclusivamente.",
+            "D) Únicamente agresiones físicas probadas."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "8",
+          "text": "¿Cuál es el plazo máximo de la detención preventiva según el Artículo 17 de la CE, sin perjuicio de su puesta a disposición judicial antes?**",
+          "options": [
+            "A) 24 horas.",
+            "B) 48 horas.",
+            "C) 72 horas.",
+            "D) 5 días."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "9",
+          "text": "La Ley 39/2006 define como \"Dependencia Severa\" al:**",
+          "options": [
+            "A) Grado I.",
+            "B) Grado II.",
+            "C) Grado III.",
+            "D) Grado IV."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "10",
+          "text": "¿Qué procedimiento garantiza la inmediata puesta a disposición judicial de toda persona detenida ilegalmente?**",
+          "options": [
+            "A) Recurso de Amparo.",
+            "B) Recurso de Inconstitucionalidad.",
+            "C) Habeas Corpus.",
+            "D) Cuestión de inconstitucionalidad."
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Organización del Estado",
+      "content": "# Resumen Tema 2: Organización Territorial del Estado\n\n## 1. El Estado Autonómico (Título VIII de la CE)\nLa Constitución garantiza la autonomía de nacionalidades y regiones y la solidaridad entre ellas.\n\n### Principios Fundamentales:\n- **Autonomía:** Derecho a regirse por sus propias normas en el marco de la Constitución.\n- **Solidaridad:** Equilibrio económico adecuado y justo entre las diversas partes del territorio.\n- **Unidad:** El Estado es único e indivisible.\n- **Igualdad:** Todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio nacional.\n\n## 2. Las Comunidades Autónomas (CC.AA.)\n- **Estatutos de Autonomía:** Norma institucional básica de cada Comunidad, aprobada por Ley Orgánica.\n- **Competencias:**\n    - *Exclusivas del Estado (Art. 149.1):* Defensa, relaciones internacionales, justicia, moneda.\n    - *Compartidas o asumidas por las CC.AA. (Art. 148):* Sanidad, agricultura, cultura.\n\n## 3. Entidades Locales\n### El Municipio:\n- Entidad básica de la organización territorial.\n- Autonomía para la gestión de sus intereses.\n- Gobierno y administración: **Ayuntamiento** (Alcalde y Concejales).\n- Elección: Concejales por sufragio universal, Alcaldes por los Concejales o el vecindario.\n\n### La Provincia:\n- Entidad con personalidad jurídica propia, integrada por la agrupación de municipios.\n- Fines: Cooperación con los municipios y prestación de servicios públicos supramunicipales.\n- Gobierno y administración: **Diputación** u otras corporaciones (salvo en las CC.AA. uniprovinciales y archipiélagos).\n\n### Los Archipiélagos:\n- **Islas:** Tendrán su administración propia en forma de Cabildos (Canarias) o Consejos (Baleares).\n\n## 4. Control de las Comunidades Autónomas\n- El control se ejerce por:\n    - El **Tribunal Constitucional**: Constitucionalidad de disposiciones con fuerza de ley.\n    - El **Gobierno**: Previa consulta al Consejo de Estado, para el ejercicio de funciones delegadas.\n    - La **Jurisdicción Contencioso-Administrativa**: Normas reglamentarias y actos administrativos.\n    - El **Tribunal de Cuentas**: Control económico y presupuestario.\n\n## 5. El Delegado del Gobierno\n- Nombrado por el Gobierno.\n- Dirige la administración del Estado en el territorio de la Comunidad Autónoma y la coordina con la administración propia de la Comunidad.\n",
+      "quiz": [
+        {
+          "id": "1",
+          "text": "¿Cuál es el Título de la Constitución que regula la Organización Territorial del Estado?**",
+          "options": [
+            "A) Título I.",
+            "B) Título III.",
+            "C) Título VIII.",
+            "D) Título X."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "2",
+          "text": "La norma institucional básica de cada Comunidad Autónoma es:**",
+          "options": [
+            "A) La Constitución.",
+            "B) El Estatuto de Autonomía.",
+            "C) El Decreto de Presidencia.",
+            "D) La Ley de Coordinación."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3",
+          "text": "¿Quién ejerce el control de la constitucionalidad de las disposiciones normativas con fuerza de ley de las CC.AA.?**",
+          "options": [
+            "A) El Rey.",
+            "B) El Tribunal Supremo.",
+            "C) El Tribunal Constitucional.",
+            "D) El Defensor del Pueblo."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "4",
+          "text": "¿Qué entidad es la encargada del gobierno y administración de los municipios?**",
+          "options": [
+            "A) La Diputación.",
+            "B) El Cabildo.",
+            "C) El Ayuntamiento.",
+            "D) El Consejo Supremo."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "5",
+          "text": "¿Cuál es el órgano que dirige la administración del Estado en el territorio de la C.A.?**",
+          "options": [
+            "A) El Presidente de la C.A.",
+            "B) El Alcalde.",
+            "C) El Delegado del Gobierno.",
+            "D) El Consejero de Interior."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "6",
+          "text": "Los Estatutos de Autonomía tienen rango de:**",
+          "options": [
+            "A) Real Decreto.",
+            "B) Ley Orgánica.",
+            "C) Reglamento.",
+            "D) Orden Ministerial."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "7",
+          "text": "En las islas del archipiélago canario, el gobierno y administración propia corresponde a:**",
+          "options": [
+            "A) Los Consejos Insulares.",
+            "B) Las Diputaciones Provinciales.",
+            "C) Los Cabildos.",
+            "D) Las Mancomunidades."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "8",
+          "text": "Según el Art. 149.1 de la CE, la competencia exclusiva sobre Relaciones Internacionales corresponde a:**",
+          "options": [
+            "A) Las Comunidades Autónomas que tengan lengua oficial propia.",
+            "B) Exclusivamente al Estado.",
+            "C) Al Senado como cámara de representación territorial.",
+            "D) A las Provincias limítrofes."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "9",
+          "text": "La provincia es una entidad local con personalidad jurídica propia, integrada por:**",
+          "options": [
+            "A) El Consejo de Ministros.",
+            "B) La agrupación de municipios.",
+            "C) La unión de federaciones.",
+            "D) Los barrios residenciales."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "10",
+          "text": "¿Cuál de estos principios NO rige la organización territorial según la Constitución?**",
+          "options": [
+            "A) Autonomía.",
+            "B) Solidaridad.",
+            "C) Independencia.",
+            "D) Igualdad territorial."
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "AGE (Ley 40/2015)",
+      "content": "# Resumen Tema 3: La Administración General del Estado (AGE) y el Sector Público Institucional\n\n## 1. Estructura de la Administración General del Estado (Ley 40/2015)\nLa AGE se organiza en:\n- **Organización Central:** Ministerios y órganos superiores/directivos.\n- **Organización Territorial:** Delegaciones y Subdelegaciones del Gobierno.\n- **Administración en el Exterior:** Embajadas y Consulados.\n\n### Órganos Superiores (Deciden):\n1. **Ministros.**\n2. **Secretarios de Estado.**\n\n### Órganos Directivos (Ejecutan):\n1. **Subsecretarios** y **Secretarios Generales.**\n2. **Secretarios Generales Técnicos** y **Directores Generales.**\n3. **Subdirectores Generales.**\n\n*Nota:* Los Subdirectores Generales son los únicos que deben ser obligatoriamente funcionarios de carrera del Subgrupo A1.\n\n## 2. El Sector Público Institucional\nEntidades con personalidad jurídica propia vinculadas a la administración.\n\n### Organismos Públicos Estatales:\n- **Organismos Autónomos (O.A.):** Derecho Administrativo. Ej: BNE, SEPE.\n- **Entidades Públicas Empresariales (E.P.E.):** Derecho Privado (mayormente). Ej: ADIF, RENFE.\n- **Agencias Estatales:** Gestión por objetivos y mayor autonomía. Ej: Agencia Estatal de Investigación (AEI), CSIC (Agencia Estatal).\n\n### Otros Entes:\n- **Autoridades Administrativas Independientes:** Ej: CNMC, AEPD.\n- **Sociedades Mercantiles Estatales:** Derecho Privado.\n- **Consorcios, Fundaciones y Fondos sin personalidad.**\n\n## 3. Los Organismos Públicos de Investigación (OPIs)\nSon las instituciones de la Administración General del Estado que, junto con las Universidades, constituyen el núcleo del sistema de investigación pública en España.\n- Se rigen por la **Ley 14/2011 (Ley de la Ciencia)** y la Ley 40/2015.\n- La mayoría han adoptado la forma de **Agencia Estatal** (como el CSIC) o siguen como Organismos Autónomos/Entidades con régimen especial.\n- Ejemplos de OPIs: CSIC, CIEMAT, IAC, INTA, IGME, IEO.\n",
+      "quiz": [
+        {
+          "id": "1",
+          "text": "Según la Ley 40/2015, ¿quiénes tienen la consideración de órganos superiores de la AGE?**",
+          "options": [
+            "A) Ministros y Subsecretarios.",
+            "B) Ministros y Secretarios de Estado.",
+            "C) Secretarios Generales y Directores Generales.",
+            "D) Subsecretarios y Secretarios Generales Técnicos."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "2",
+          "text": "¿Cuál de los siguientes es un órgano directivo de la Administración General del Estado?**",
+          "options": [
+            "A) Secretario de Estado.",
+            "B) Ministro.",
+            "C) Subsecretario.",
+            "D) Vicepresidente."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "3",
+          "text": "Los Subdirectores Generales serán nombrados entre funcionarios de carrera de:**",
+          "options": [
+            "A) Cualquier subgrupo.",
+            "B) Subgrupo A2 exclusivamente.",
+            "C) Subgrupo A1.",
+            "D) Personal laboral de alta dirección."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "4",
+          "text": "¿Qué órgano ostenta la representación ordinaria del Ministerio y dirige sus servicios comunes?**",
+          "options": [
+            "A) El Ministro.",
+            "B) El Secretario de Estado.",
+            "C) El Subsecretario.",
+            "D) El Director General."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "5",
+          "text": "Los Delegados del Gobierno en las Comunidades Autónomas tienen rango de:**",
+          "options": [
+            "A) Ministro.",
+            "B) Secretario de Estado.",
+            "C) Subsecretario.",
+            "D) Director General."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "6",
+          "text": "¿Qué tipo de organismo público se rige íntegramente por el Derecho Administrativo para el desempeño de sus funciones?**",
+          "options": [
+            "A) Entidad Pública Empresarial (E.P.E.).",
+            "B) Sociedad Mercantil Estatal.",
+            "C) Organismo Autónomo (O.A.).",
+            "D) Fundación del Sector Público."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "7",
+          "text": "Las Agencias Estatales se caracterizan principalmente por:**",
+          "options": [
+            "A) No tener personalidad jurídica.",
+            "B) Carecer de patrimonio propio.",
+            "C) Su gestión basada en el cumplimiento de objetivos y autonomía.",
+            "D) Estar compuestas exclusivamente por personal eventual."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "8",
+          "text": "¿Quién nombra y separa a los Subdelegados del Gobierno en las provincias?**",
+          "options": [
+            "A) El Rey.",
+            "B) El Presidente del Gobierno.",
+            "C) El Ministro de Política Territorial.",
+            "D) El Delegado del Gobierno en la C.A."
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "9",
+          "text": "¿Cuál de los siguientes organismos es un OPI (Organismo Público de Investigación)?**",
+          "options": [
+            "A) Agencia Tributaria (AEAT).",
+            "B) Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT).",
+            "C) Servicio Público de Empleo Estatal (SEPE).",
+            "D) Dirección General de Tráfico (DGT)."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "10",
+          "text": "Las Entidades Públicas Empresariales (E.P.E.) se financian mayoritariamente con:**",
+          "options": [
+            "A) Solo Presupuestos Generales del Estado.",
+            "B) Ingresos propios derivados de su actividad.",
+            "C) Cuotas de los sindicatos.",
+            "D) Exclusivamente donaciones privadas."
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Gobernanza y Datos",
+      "content": "# Resumen Tema 4: Gobierno Abierto, Transparencia y Protección de Datos\n\n## 1. Gobierno Abierto y Transparencia (Ley 19/2013)\nEl Gobierno Abierto se basa en la transparencia, la participación ciudadana y la colaboración.\n\n### Publicidad Activa:\nLas administraciones deben publicar de oficio:\n- Funciones, normativa y estructura.\n- Contratos, convenios y subvenciones.\n- Presupuestos y retribuciones de altos cargos.\n\n### Derecho de Acceso a la Información Pública:\n- **Sujetos:** Cualquier persona física o jurídica.\n- **Plazo de resolución:** Máximo **1 mes** (ampliable por otro mes en casos complejos).\n- **Silencio administrativo:** Negativo (se entiende denegada si no hay respuesta).\n\n### El Consejo de Transparencia y Buen Gobierno (CTBG):\nÓrgano independiente encargado de velar por el cumplimiento de la ley y resolver reclamaciones.\n\n## 2. Protección de Datos (LOPDGDD 3/2018 y RGPD)\nAdapta el reglamento europeo (RGPD) al derecho español.\n\n### Conceptos Clave:\n- **Interesado:** Persona física cuyos datos se tratan.\n- **Responsable del tratamiento:** Quien decide la finalidad y medios.\n- **Delegado de Protección de Datos (DPD):** Figura obligatoria en organismos públicos para supervisar el cumplimiento.\n\n### Derechos de los Ciudadanos (ARSLPO):\n1. **Acceso:** Saber si se tratan sus datos.\n2. **Rectificación:** Corregir errores.\n3. **Supresión (Olvido):** Eliminar datos si ya no son necesarios.\n4. **Limitación:** Suspender el tratamiento temporalmente.\n5. **Portabilidad:** Recibir sus datos en formato electrónico.\n6. **Oposición:** Impedir el tratamiento por motivos personales.\n\n### Garantía de Derechos Digitales:\n- **Derecho a la desconexión digital:** Respeto al tiempo de descanso de los trabajadores después de la jornada.\n- **Educación Digital:** Los centros educativos deben promover el uso seguro de internet.\n- **Testamento Digital:** Gestión de la huella digital de personas fallecidas por sus herederos.\n",
+      "quiz": [
+        {
+          "id": "1",
+          "text": "¿Cuál es el plazo general para resolver una solicitud de acceso a la información pública según la Ley 19/2013?**",
+          "options": [
+            "A) 15 días naturales.",
+            "B) 1 mes.",
+            "C) 3 meses.",
+            "D) 6 meses."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "2",
+          "text": "El silencio administrativo en una solicitud de acceso a información pública bajo la Ley 19/2013 se considera:**",
+          "options": [
+            "A) Positivo (concedido).",
+            "B) Negativo (denegado).",
+            "C) Caducidad del procedimiento.",
+            "D) Inexistente."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3",
+          "text": "¿Qué órgano tiene por objeto velar por el cumplimiento de las obligaciones de transparencia y resolver reclamaciones?**",
+          "options": [
+            "A) El Defensor del Pueblo.",
+            "B) El Tribunal de Cuentas.",
+            "C) El Consejo de Transparencia y Buen Gobierno.",
+            "D) La Agencia Tributaria."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "4",
+          "text": "Según la LOPDGDD, ¿a qué edad se considera lícito el tratamiento de datos de un menor basado en su propio consentimiento?**",
+          "options": [
+            "A) 12 años.",
+            "B) 14 años.",
+            "C) 16 años.",
+            "D) 18 años."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "5",
+          "text": "El derecho de supresión de datos personales también es conocido por el Reglamento Europeo y la LOPDGDD como:**",
+          "options": [
+            "A) Derecho a la portabilidad.",
+            "B) Derecho de acceso digital.",
+            "C) Derecho al olvido.",
+            "D) Derecho de bloqueo."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "6",
+          "text": "La obligación de las administraciones de publicar información sin que nadie la pida se denomina:**",
+          "options": [
+            "A) Publicidad pasiva.",
+            "B) Publicidad activa.",
+            "C) Notificación oficial.",
+            "D) Transparencia a demanda."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "7",
+          "text": "¿Qué figura es obligatoria en todos los organismos públicos para supervisar la política de privacidad?**",
+          "options": [
+            "A) El Director de Sistemas.",
+            "B) El Delegado de Protección de Datos (DPD).",
+            "C) El Secretario General.",
+            "D) El Auditor Externo."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "8",
+          "text": "El derecho a que los trabajadores no tengan que responder mensajes de trabajo fuera de su jornada laboral se denomina:**",
+          "options": [
+            "A) Derecho a la intimidad.",
+            "B) Derecho a la desconexión digital.",
+            "C) Derecho al descanso retribuido.",
+            "D) Derecho a la objeción tecnológica."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "9",
+          "text": "¿Cuál de los siguientes es un límite al derecho de acceso a la información pública?**",
+          "options": [
+            "A) La seguridad nacional.",
+            "B) El color de la carpeta del expediente.",
+            "C) Que el funcionario esté de vacaciones.",
+            "D) Que la información sea antigua (más de 10 años)."
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "10",
+          "text": "Las reclamaciones contra resoluciones denegatorias de acceso a la información ante el Consejo de Transparencia tienen carácter:**",
+          "options": [
+            "A) Obligatorio antes de ir al juez.",
+            "B) Potestativo y sustituyen a los recursos administrativos ordinarios.",
+            "C) Judicial inmediato.",
+            "D) No vinculante."
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Procedimiento (Ley 39/2015)",
+      "content": "# Resumen Tema 5: El Procedimiento Administrativo Común (Ley 39/2015)\n\n## 1. El Procedimiento Administrativo\nEs el cauce formal de la serie de actos en que se concreta la actuación administrativa para la realización de un fin.\n\n### La Obligación de Resolver (Art. 21):\nLa Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos.\n- El plazo máximo suele ser de **3 meses** si la norma no fija otro (máximo 6 meses salvo Ley o Derecho UE).\n\n## 2. Los Actos Administrativos\nSon declaraciones de voluntad, de juicio, de deseo o de conocimiento realizadas por la Administración en ejercicio de una potestad administrativa.\n\n### Caracteres:\n- **Presunción de Legitimidad:** Se presumen válidos.\n- **Ejecutoriedad:** Obligan a su cumplimiento desde que se dictan/notifican.\n\n### Eficacia y Notificación (Arts. 39-46):\n- Los actos son eficaces desde que se dictan salvo que se exija notificación o publicación.\n- La notificación debe cursarse en el plazo de **10 días** a partir de la fecha del acto.\n\n## 3. Fases Detalladas\n- **Inicio de oficio:** Por acuerdo del órgano competente, orden superior, petición razonada o denuncia.\n- **Audiencia al interesado:** Trámite esencial antes de redactar la propuesta de resolución. Se puede omitir si no figuran en el procedimiento ni se tienen en cuenta otros hechos y alegaciones que las presentadas por el interesado.\n\n## 4. Recursos Administrativos: Plazos Clave\n| Recurso | Actos | Plazo Interponer | Plazo Resolver |\n| :--- | :--- | :--- | :--- |\n| **Alzada** | No agotan vía | 1 mes | 3 meses |\n| **Reposición** | Agotan vía | 1 mes | 1 mes |\n| **Revisión** | Casos especiales | 3 meses / 4 años | 3 meses |\n\n- **Vía Administrativa**: Si no se resuelve el recurso de Alzada en plazo, se entiende desestimado (Silencio negativo), salvo que fuera contra un silencio negativo previo (entonces sería positivo).\n",
+      "quiz": [
+        {
+          "id": "1",
+          "text": "Según la Ley 39/2015, los sábados son considerados como:**",
+          "options": [
+            "A) Días hábiles.",
+            "B) Días inhábiles.",
+            "C) Días festivos nacionales.",
+            "D) Días de cortesía administrativa."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "2",
+          "text": "¿Cuál es el plazo máximo general para notificar la resolución de un procedimiento si la normativa específica no establece otro?**",
+          "options": [
+            "A) 1 mes.",
+            "B) 2 meses.",
+            "C) 3 meses.",
+            "D) 6 meses."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "3",
+          "text": "El recurso que se interpone ante el superior jerárquico de quien dictó el acto se denomina:**",
+          "options": [
+            "A) Recurso de Reposición.",
+            "B) Recurso de Alzada.",
+            "C) Recurso de Revisión.",
+            "D) Recurso Contencioso."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "4",
+          "text": "¿En qué plazo debe cursarse la notificación de un acto administrativo desde que fue dictado?**",
+          "options": [
+            "A) 3 días.",
+            "B) 5 días.",
+            "C) 10 días.",
+            "D) 15 días."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "5",
+          "text": "El silencio administrativo en los procedimientos iniciados a solicitud del interesado, por regla general, tiene efecto:**",
+          "options": [
+            "A) Desestimatorio (Negativo).",
+            "B) Estimatorio (Positivo).",
+            "C) Caducidad.",
+            "D) No produce efectos hasta que sea ratificado."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "6",
+          "text": "¿Cuál de estos casos supone una nulidad de pleno derecho (nulidad absoluta)?**",
+          "options": [
+            "A) Defecto de forma que no produce indefensión.",
+            "B) Actos dictados por órgano incompetente por razón de la materia o territorio.",
+            "C) Actos dictados fuera de plazo.",
+            "D) Cualquier infracción leve del ordenamiento."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "7",
+          "text": "El trámite de audiencia al interesado se realiza en la fase de:**",
+          "options": [
+            "A) Iniciación.",
+            "B) Ordenación.",
+            "C) Instrucción.",
+            "D) Finalización."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "8",
+          "text": "¿Cuál es el plazo para interponer un recurso de reposición contra un acto expreso?**",
+          "options": [
+            "A) 10 días.",
+            "B) 15 días.",
+            "C) 1 mes.",
+            "D) 3 meses."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "9",
+          "text": "Si un procedimiento sancionador se paraliza por causa imputable a la Administración durante más del plazo fijado para resolver, se produce la:**",
+          "options": [
+            "A) Prescripción de la infracción.",
+            "B) Caducidad del procedimiento.",
+            "C) Estimación por silencio.",
+            "D) Anulabilidad del acto."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "10",
+          "text": "Los actos administrativos que agotan la vía administrativa pueden ser recurridos potestativamente en:**",
+          "options": [
+            "A) Alzada.",
+            "B) Reposición.",
+            "C) Revisión siempre.",
+            "D) Únicamente ante el Tribunal Supremo."
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Contratos (LCSP)",
+      "content": "# Resumen Tema 6: Los Contratos del Sector Público (Ley 9/2017)\n\n## 1. Principios de la Contratación Pública\n- Libertad de acceso y publicidad.\n- Transparencia y no discriminación.\n- Eficiencia y estabilidad presupuestaria.\n- Integridad (Lucha contra la corrupción).\n\n## 2. Elementos del Contrato\n- **Órgano de Contratación:** Unipersonal o colegiado (Ministro, Director General, Juntas de Contratación).\n- **Contratista:** Persona física o jurídica con capacidad de obrar, solvencia y no incursa en prohibición de contratar.\n- **Objeto:** Determinado, necesario e íntegro (prohibición de fraccionamiento).\n- **Precio:** Cierto, en euros, pudiendo incluir cláusulas de revisión.\n\n## 3. Expediente de Contratación\n1. **Iniciación:** Justificación de la necesidad.\n2. **Aprobación del gasto.**\n3. **Pliegos:**\n    - **P. Cláusulas Administrativas Particulares (PCAP):** Los derechos y obligaciones de las partes.\n    - **P. Prescripciones Técnicas (PPT):** Las características técnicas del objeto.\n\n## 4. Clasificación de los Contratos\n- **Contratos Administrativos:** Siempre los de obras, concesiones, suministros y servicios celebrados por una Administración Pública.\n- **Contratos Privados:** Los celebrados por entes del sector público que no son Administraciones Públicas, o ciertos contratos específicos (financieros, seguros).\n\n## 5. Garantías\n- **Provisional:** Solo si el órgano lo justifica (máximo 3% del presupuesto).\n- **Definitiva:** Obligatoria con carácter general para el adjudicatario (5% del importe de adjudicación).\n- **Complementaria:** En casos especiales (hasta un 5% adicional).\n",
+      "quiz": [
+        {
+          "id": "1",
+          "text": "¿Cuál es la cuantía máxima (IVA excluido) para considerar un contrato de servicios como \"Contrato Menor\"?**",
+          "options": [
+            "A) 6.000 €.",
+            "B) 15.000 €.",
+            "C) 18.000 €.",
+            "D) 40.000 €."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "2",
+          "text": "¿Y para un contrato de obras?**",
+          "options": [
+            "A) 15.000 €.",
+            "B) 30.000 €.",
+            "C) 40.000 €.",
+            "D) 50.000 €."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "3",
+          "text": "El principio que busca que la contratación pública se utilice para lograr objetivos sociales y medioambientales se denomina:**",
+          "options": [
+            "A) Eficiencia.",
+            "B) Contratación Estratégica.",
+            "C) Libre concurrencia.",
+            "D) Transparencia."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "4",
+          "text": "¿Qué tipo de contrato tiene por objeto el arrendamiento financiero (leasing) de equipos de laboratorio?**",
+          "options": [
+            "A) Suministro.",
+            "B) Servicios.",
+            "C) Obras.",
+            "D) Gestión de servicios públicos."
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "5",
+          "text": "La garantía definitiva que debe prestar el adjudicatario de un contrato es, con carácter general, del:**",
+          "options": [
+            "A) 2% del presupuesto de licitación.",
+            "B) 3% del precio de adjudicación.",
+            "C) 5% del precio de adjudicación (excluido IVA).",
+            "D) 10% del precio de adjudicación."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "6",
+          "text": "¿Dónde deben publicar las Administraciones Públicas sus licitaciones para garantizar la transparencia?**",
+          "options": [
+            "A) Solo en el tablón de anuncios físico.",
+            "B) En la Plataforma de Contratación del Sector Público (Perfil del Contratante).",
+            "C) En el periódico de mayor tirada nacional.",
+            "D) En la web personal del Ministro."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "7",
+          "text": "Un contrato cuyo objeto es la construcción de un edificio a cambio del derecho a explotar los locales comerciales durante 20 años es un:**",
+          "options": [
+            "A) Contrato de servicios.",
+            "B) Contrato de concesión de obras.",
+            "C) Contrato de obra pública.",
+            "D) Contrato de suministro."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "8",
+          "text": "¿Cuál es el procedimiento de adjudicación en el que CUALQUIER empresario puede presentar una proposición?**",
+          "options": [
+            "A) Negociado.",
+            "B) Restringido.",
+            "C) Abierto.",
+            "D) Diálogo competitivo."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "9",
+          "text": "En los contratos menores, ¿cuál es el plazo máximo de duración?**",
+          "options": [
+            "A) 1 año, no prorrogable.",
+            "B) 2 años.",
+            "C) 4 años.",
+            "D) 5 años."
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "10",
+          "text": "Los contratos SARA (Sujetos a Regulación Armonizada) se caracterizan por:**",
+          "options": [
+            "A) Ser contratos de cuantía muy pequeña.",
+            "B) Exigir publicidad en el Diario Oficial de la Unión Europea (DOUE).",
+            "C) Ser siempre contratos de emergencia.",
+            "D) No requerir pliegos de condiciones."
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Personal (TREBEP)",
+      "content": "# Resumen Tema 7: Personal al Servicio de las Administraciones Públicas (TREBEP)\n\n## 1. El Empleado Público\nConcepto: Personas que desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales.\n\n### Grupos de Clasificación (Art. 76):\nDivididos según la titulación exigida:\n- **Grupo A:** Título universitario de Grado.\n    - Subgrupo **A1**.\n    - Subgrupo **A2**. (Escala de Técnicos Especialistas OPI suele ser aquí).\n- **Grupo B:** Título de Técnico Superior.\n- **Grupo C:**\n    - Subgrupo **C1**: Título de Bachiller o Técnico. (Escala de Ayudantes suele ser aquí).\n    - Subgrupo **C2**: Título de Graduado en ESO.\n\n## 2. Acceso al Empleo Público (Art. 55-62)\nPrincipios constitucionales: **Igualdad, Mérito y Capacidad**.\n\n### Sistemas selectivos:\n- **Oposición:** Pruebas de conocimientos/capacidad.\n- **Concurso-Oposición:** Pruebas + valoración de méritos (experiencia, cursos).\n- **Concurso:** Valoración de méritos (excepcional, solo por ley).\n\n## 3. Pérdida de la relación de servicio (Art. 63)\n- Renuncia.\n- Pérdida de la nacionalidad.\n- Jubilación total.\n- Sanción disciplinaria de separación del servicio (firme).\n- Pena principal o accesoria de inhabilitación absoluta o especial.\n\n## 4. Retribuciones (Art. 22-30)\n- **Básicas:** Sueldo y Trienios (antigüedad cada 3 años).\n- **Complementarias:**\n    - Complemento de Destino (nivel del puesto).\n    - Complemento Específico (dificultad, responsabilidad, peligrosidad).\n    - Complemento de Productividad (rendimiento).\n    - Gratificaciones (servicios extraordinarios fuera de jornada).\n",
+      "quiz": [
+        {
+          "id": "1",
+          "text": "¿Cómo se denomina al personal que, por razones de necesidad y urgencia, es nombrado para ocupar plazas vacantes de funcionarios de carrera?**",
+          "options": [
+            "A) Personal eventual.",
+            "B) Funcionario interino.",
+            "C) Personal laboral fijo.",
+            "D) Funcionario de confianza."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "2",
+          "text": "El personal eventual realiza funciones de:**",
+          "options": [
+            "A) Gestión administrativa ordinaria.",
+            "B) Potestades públicas permanentes.",
+            "C) Confianza o asesoramiento especial.",
+            "D) Mantenimiento de edificios públicos."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "3",
+          "text": "¿Cada cuántos años se perfecciona un \"Trienio\" en la Administración Pública?**",
+          "options": [
+            "A) 1 año.",
+            "B) 2 años.",
+            "C) 3 años.",
+            "D) 5 años."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "4",
+          "text": "El derecho a la \"Inamovilidad en la condición de funcionario de carrera\" implica:**",
+          "options": [
+            "A) Que no se le puede cambiar nunca de ciudad.",
+            "B) Que tiene garantizada la permanencia en la Administración.",
+            "C) Que no se le puede sancionar.",
+            "D) Que siempre cobrará lo mismo."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "5",
+          "text": "¿Cuál es la titulación exigida para acceder a un cuerpo del Subgrupo A2?**",
+          "options": [
+            "A) Bachillerato.",
+            "B) Grado Universitario.",
+            "C) Doctorado.",
+            "D) Educación Secundaria Obligatoria."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "6",
+          "text": "¿Qué situación administrativa se produce cuando un funcionario es designado para formar parte del Gobierno de la Nación?**",
+          "options": [
+            "A) Servicio activo.",
+            "B) Excedencia voluntaria.",
+            "C) Servicios especiales.",
+            "D) Suspensión firme."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "7",
+          "text": "Las faltas disciplinarias leves prescriben al cabo de:**",
+          "options": [
+            "A) 1 mes.",
+            "B) 6 meses.",
+            "C) 1 año.",
+            "D) 2 años."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "8",
+          "text": "¿Cuál de las siguientes es una retribución básica?**",
+          "options": [
+            "A) El complemento de destino.",
+            "B) El complemento específico.",
+            "C) El sueldo.",
+            "D) El complemento de productividad."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "9",
+          "text": "La sanción de \"Separación del servicio\" solo puede imponerse por la comisión de faltas:**",
+          "options": [
+            "A) Leves.",
+            "B) Graves.",
+            "C) Muy graves.",
+            "D) Reiteradas (más de 3 graves)."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "10",
+          "text": "El sistema de selección basado exclusivamente en la valoración de méritos sin pruebas de examen se denomina:**",
+          "options": [
+            "A) Oposición.",
+            "B) Concurso-Oposición.",
+            "C) Concurso.",
+            "D) Libre designación."
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Presupuestos (LGP)",
+      "content": "# Resumen Tema 8: Los Presupuestos Generales del Estado (LGP)\n\n## 1. El Ciclo Presupuestario\n1. **Elaboración:** Corresponde al Gobierno (Ministerio de Hacienda).\n2. **Examen y Aprobación:** Corresponde a las Cortes Generales.\n    - El proyecto debe presentarse antes del **1 de octubre**.\n    - Si no se aprueban antes del 1 de enero, se consideran **prorrogados** los del año anterior.\n3. **Ejecución:** Gestión de los créditos por parte de los ministerios y organismos.\n4. **Control:**\n    - **Control Interno:** Intervención General de la Administración del Estado (IGAE).\n    - **Control Externo:** Tribunal de Cuentas (depende de las Cortes).\n\n## 2. Los Créditos Presupuestarios\nSon las autorizaciones para gastar. Son limitativos en 3 sentidos:\n- **Cualitativo:** Solo para la finalidad prevista.\n- **Cuantitativo:** Solo por el importe autorizado.\n- **Temporal:** Solo durante el año natural (salvo incorporaciones).\n\n## 3. Gastos de Personal (Capítulo 1)\nEs el que financia a los empleados públicos.\n- Las leyes de presupuestos anuales suelen fijar el incremento máximo de retribuciones y la **Tasa de Reposición de Efectivos** (cuántos nuevos funcionarios pueden entrar según los que se jubilan).\n\n## 4. El Control Financiero y de Resultados\nLa Administración no solo controla que se cumpla la ley, sino que el gasto sea **eficiente** y logre los **objetivos** de los programas (Control de eficacia).\n- **La Función Interventora:** Fiscalización previa de los actos que dan lugar a gastos. Se comprueba que hay dinero y que se cumple la normativa.\n",
+      "quiz": [
+        {
+          "id": "1",
+          "text": "¿Cuál es la fecha límite para que el Gobierno presente el Proyecto de Ley de PGE ante el Congreso?**",
+          "options": [
+            "A) 1 de septiembre.",
+            "B) 1 de octubre.",
+            "C) 31 de diciembre.",
+            "D) 1 de enero."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "2",
+          "text": "Si el 1 de enero no ha sido aprobada la nueva Ley de Presupuestos:**",
+          "options": [
+            "A) El Estado no puede gastar dinero.",
+            "B) Se consideran automáticamente prorrogados los del ejercicio anterior.",
+            "C) El Gobierno debe dimitir.",
+            "D) Se utiliza un presupuesto de emergencia del 50%."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3",
+          "text": "¿Qué principio presupuestario establece que el presupuesto debe recoger todos los ingresos y gastos del sector público estatal?**",
+          "options": [
+            "A) Especialidad.",
+            "B) Anualidad.",
+            "C) Universalidad.",
+            "D) Estabilidad."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "4",
+          "text": "¿A qué Capítulo de la clasificación económica corresponden los \"Gastos de Personal\"?**",
+          "options": [
+            "A) Capítulo 1.",
+            "B) Capítulo 2.",
+            "C) Capítulo 4.",
+            "D) Capítulo 6."
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "5",
+          "text": "La fase de ejecución del gasto en la que se formaliza la relación con un tercero (por ejemplo, tras adjudicar un contrato) se denomina:**",
+          "options": [
+            "A) Aprobación (A).",
+            "B) Compromiso de gasto (D).",
+            "C) Reconocimiento de la obligación (O).",
+            "D) Ordenación del pago (P)."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "6",
+          "text": "¿Cómo se denomina la modificación presupuestaria que consiste en traspasar crédito de una aplicación a otra?**",
+          "options": [
+            "A) Suplemento de crédito.",
+            "B) Generación de crédito.",
+            "C) Transferencia de crédito.",
+            "D) Incorporación de crédito."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "7",
+          "text": "El control interno de la gestión económico-financiera del sector público estatal es ejercido por:**",
+          "options": [
+            "A) El Tribunal de Cuentas.",
+            "B) El Banco de España.",
+            "C) La Intervención General de la Administración del Estado (IGAE).",
+            "D) El Defensor del Pueblo."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "8",
+          "text": "¿Cuál es el órgano de control externo que informa directamente a las Cortes Generales sobre la gestión de los fondos públicos?**",
+          "options": [
+            "A) La Agencia Tributaria.",
+            "B) El Tribunal de Cuentas.",
+            "C) El Consejo de Estado.",
+            "D) El Ministerio de Hacienda."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "9",
+          "text": "En la clasificación económica, las \"Inversiones Reales\" (como la compra de equipos científicos) corresponden al:**",
+          "options": [
+            "A) Capítulo 1.",
+            "B) Capítulo 4.",
+            "C) Capítulo 6.",
+            "D) Capítulo 8."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "10",
+          "text": "El principio de \"Especialidad Cualitativa\" significa que:**",
+          "options": [
+            "A) No se puede gastar más de lo presupuestado.",
+            "B) Los créditos deben destinarse exclusivamente a la finalidad para la que fueron autorizados.",
+            "C) El presupuesto solo dura un año.",
+            "D) Solo pueden gastar los especialistas en economía."
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Ley de la Ciencia",
+      "content": "# Resumen Tema 9: La Ley de la Ciencia, la Tecnología y la Innovación\n\n## 1. Objetivos de la Ley\n- Fomentar la investigación científica y técnica de excelencia.\n- Fortalecer la transferencia de conocimiento al sector productivo.\n- Mejorar la carrera profesional de los investigadores y técnicos.\n- Asegurar la igualdad de género en la ciencia.\n\n## 2. Gobernanza de la Ciencia\n- **Consejo de Política Científica, Tecnológica y de Innovación:** Órgano de coordinación entre el Estado y las CCAA.\n- **Consejo Asesor de Ciencia, Tecnología e Innovación:** Participación de la comunidad científica y agentes sociales.\n- **Comité Español de Ética de la Investigación:** Órgano consultivo sobre integridad científica.\n\n## 3. Los Organismos Públicos de Investigación (OPIs)\nSon los pilares ejecución de la investigación estatal. \n- Tienen personalidad jurídica propia y autonomía de gestión.\n- **Funciones:** Investigación, asesoramiento científico, formación de investigadores, transferencia de resultados.\n\n## 4. La Carrera Profesional y Estabilidad (Reforma 2022)\nLa reforma busca acabar con la precariedad:\n- Introducción del **Contrato Indefinido** vinculado a proyectos científico-técnicos para técnicos e investigadores.\n- Fomento de la **movilidad** (posibilidad de trabajar en el sector privado manteniendo reserva de puesto en el público bajo ciertas condiciones).\n- Creación del **Certificado R3** para facilitar la estabilización de investigadores doctores.\n\n## 5. La Evaluación de la Actividad Investigadora\n- Evaluación periódica del desempeño.\n- Pago de complementos de productividad ligados a tramos de investigación (Sexenios) y méritos técnicos/gestión.\n",
+      "quiz": [
+        {
+          "id": "1",
+          "text": "¿Cuál es el principal instrumento de planificación plurianual del Sistema Español de Ciencia (SECTI)?**",
+          "options": [
+            "A) El Presupuesto del Ministerio.",
+            "B) La Estrategia Española de Ciencia, Tecnología e Innovación (EECTI).",
+            "C) El Decreto de Estructura de los OPIs.",
+            "D) El Reglamento de la Agencia Estatal."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "2",
+          "text": "¿Cuál de los siguientes NO es un OPI (Organismo Público de Investigación) mencionado en la Ley?**",
+          "options": [
+            "A) CSIC.",
+            "B) CIEMAT.",
+            "C) AEMET (Agencia Estatal de Meteorología).",
+            "D) INTA."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "3",
+          "text": "La reforma de 2022 introdujo una nueva modalidad de contrato para actividades científico-técnicas que es de carácter:**",
+          "options": [
+            "A) Temporal (máximo 2 años).",
+            "B) De prácticas.",
+            "C) Indefinido (vinculado a financiación).",
+            "D) Funcionarial de carrera."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "4",
+          "text": "El derecho de los investigadores a participar en los beneficios obtenidos de la explotación de resultados de su investigación se denomina:**",
+          "options": [
+            "A) Derecho de autor.",
+            "B) Participación en beneficios / Royalty.",
+            "C) Complemento específico.",
+            "D) Sexenio de transferencia."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "5",
+          "text": "¿Qué órgano se encarga de la coordinación entre el Estado y las Comunidades Autónomas en materia de I+D+i?**",
+          "options": [
+            "A) El Ministerio de Hacienda.",
+            "B) El Consejo de Política Científica, Tecnológica y de Innovación.",
+            "C) El Comité de Ética.",
+            "D) La Conferencia de Rectores (CRUE)."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "6",
+          "text": "El concepto de \"Ciencia Abierta\" (Open Science) obliga a depositar publicaciones con fondos públicos en:**",
+          "options": [
+            "A) Bibliotecas municipales.",
+            "B) Páginas web de pago.",
+            "C) Repositorios de acceso abierto.",
+            "D) Únicamente en el BOE."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "7",
+          "text": "¿Cuál es la edad máxima para el contrato de joven investigador?**",
+          "options": [
+            "A) 30 años.",
+            "B) 35 años.",
+            "C) No hay límite de edad, depende de la fecha de obtención del título.",
+            "D) 25 años."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "8",
+          "text": "El certificado que reconoce la excelencia del personal investigador doctor para facilitar su acceso estable al sistema se llama:**",
+          "options": [
+            "A) Certificado A+.",
+            "B) Certificado R3.",
+            "C) Diploma de Excelencia BOE.",
+            "D) Carné de Investigador Mayor."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "9",
+          "text": "¿Qué OPI tiene la consideración de \"Agencia Estatal\"?**",
+          "options": [
+            "A) IAC.",
+            "B) CSIC.",
+            "C) CIEMAT.",
+            "D) INTA."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "10",
+          "text": "La ley establece que se debe integrar la perspectiva de género en:**",
+          "options": [
+            "A) Únicamente en los salarios.",
+            "B) En todo el ciclo de la investigación y la innovación.",
+            "C) Solo en las encuestas de satisfacción.",
+            "D) No se menciona la perspectiva de género."
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "10-12",
+      "title": "Gobernanza SECTI e Instituciones",
+      "content": "# Resumen Temas 10-12: Instituciones del SECTI y Gobernanza\n\n## 1. El Ministerio de Ciencia y su Estructura\nEl Ministerio es el brazo ejecutor de la política científica del Gobierno.\n- **Plan Estatal de I+D+i:** Principal herramienta de financiación (proyectos de investigación, contratos de personal).\n- **Agencia Estatal de Investigación (AEI):** Entidad que gestiona la mayor parte de las convocatorias competitivas.\n- **CDTI (Centro para el Desarrollo Tecnológico y la Innovación):** Enfocado a la innovación empresarial.\n\n## 2. Los OPIs como agentes de ejecución\nLos OPIs tienen funciones de:\n- Investigación directa.\n- Formación de personal.\n- Gestión de infraestructuras científicas.\n- Asesoramiento al Gobierno.\n\n*Diferencia clave:* El CSIC es una **Agencia Estatal**, mientras que otros como el CIEMAT son **Organismos Autónomos**.\n\n## 3. Universidades y CCAA\n- **CCAA:** Desarrollan sus propios planes regionales de I+D. La coordinación es clave para evitar duplicidades.\n- **Universidades:** Realizan investigación a través de sus departamentos e institutos universitarios de investigación.\n- **OTRI:** Puntos de conexión entre los científicos y las empresas para comercializar patentes y resultados.\n",
+      "quiz": [
+        {
+          "id": "1",
+          "text": "¿Qué Real Decreto regula la estructura orgánica básica del Ministerio de Ciencia, Innovación y Universidades en 2024?**",
+          "options": [
+            "A) RD 472/2024.",
+            "B) RD 311/1978.",
+            "C) RD 2/2015.",
+            "D) RD 40/2015."
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "2",
+          "text": "¿Quién preside la Secretaría de Estado de Ciencia, Innovación y Universidades?**",
+          "options": [
+            "A) Un funcionario del grupo C1.",
+            "B) El Secretario de Estado.",
+            "C) El Director del CSIC.",
+            "D) El Rector de la UIMP."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "3",
+          "text": "¿Cuál de estos organismos depende del Ministerio de Ciencia y se encarga de la innovación empresarial?**",
+          "options": [
+            "A) CSIC.",
+            "B) AEI.",
+            "C) CDTI.",
+            "D) ISCIII."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "4",
+          "text": "¿Cuál es el OPI con mayor número de centros distribuidos por toda España?**",
+          "options": [
+            "A) CIEMAT.",
+            "B) INTA.",
+            "C) CSIC.",
+            "D) IAC."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "5",
+          "text": "El Instituto de Astrofísica de Canarias (IAC) tiene una naturaleza jurídica de:**",
+          "options": [
+            "A) Ministerio.",
+            "B) Consorcio público.",
+            "C) Sociedad Anónima.",
+            "D) Fundación privada."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "6",
+          "text": "¿Qué OPI depende funcionalmente de Defensa pero es coordinado por el Ministerio de Ciencia?**",
+          "options": [
+            "A) IEO.",
+            "B) IGME.",
+            "C) INTA.",
+            "D) ISCIII."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "7",
+          "text": "Las siglas OTRI significan:**",
+          "options": [
+            "A) Oficina Técnica de Recogida de Información.",
+            "B) Oficina de Transferencia de Resultados de Investigación.",
+            "C) Organización Territorial de Relevo Investigador.",
+            "D) Orden Tecnológica de Resultados e Innovación."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "8",
+          "text": "¿Qué institución se encarga de la acreditación y evaluación de la calidad del profesorado universitario y de los títulos?**",
+          "options": [
+            "A) CSIC.",
+            "B) CDTI.",
+            "C) ANECA.",
+            "D) SEPIE."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "9",
+          "text": "¿Cuál de estos órganos del Ministerio es un órgano directivo?**",
+          "options": [
+            "A) El Ministro.",
+            "B) El Secretario de Estado.",
+            "C) La Secretaría General de Investigación.",
+            "D) El Presidente de cualquier C.A."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "10",
+          "text": "Las universidades públicas españolas tienen, según la Constitución:**",
+          "options": [
+            "A) Dependencia total del Alcalde.",
+            "B) Autonomía universitaria.",
+            "C) Prohibición de investigar.",
+            "D) Carácter de Sociedad Mercantil."
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "13-15",
+      "title": "Europa e I+D",
+      "content": "# Resumen Temas 13-15: La Política de Investigación de la Unión Europea\n\n## 1. Fundamentos de la Política de I+D de la UE\nLa UE busca fortalecer sus bases científicas y tecnológicas para ser competitiva a nivel global, tal como establece el Tratado de Funcionamiento de la UE (TFUE).\n\n## 2. Horizonte Europa (2021-2027)\nEs el principal instrumento de financiación de la I+D+i en Europa.\n- **Pilar 1 (Ciencia de Frontera):** Busca la excelencia sin temas predefinidos (ERC).\n- **Pilar 2 (Basado en Clústeres):** Investigación aplicada a problemas específicos (ej: Salud, Espacio).\n- **Pilar 3 (Innovación):** Apoyo a empresas que rompen el mercado (disruptivas).\n\n## 3. Principios Transversales\n- **Ciencia Abierta:** Obligación de publicar en abierto.\n- **Género:** Los planes de igualdad son obligatorios para que los organismos públicos puedan recibir fondos (GEP - Gender Equality Plan).\n- **Cooperación Internacional:** Apertura a la participación de países terceros (asociados).\n\n## 4. Gestión de Proyectos\n- Se gestionan mediante convocatorias competitivas publicadas en el **Funding & Tenders Portal**.\n- El **NCP (Punto Nacional de Contacto)** es la figura de asesoramiento para los investigadores.\n",
+      "quiz": [
+        {
+          "id": "1",
+          "text": "¿Cuál es el nombre del actual Programa Marco de Investigación e Innovación de la UE (2021-2027)?**",
+          "options": [
+            "A) Horizonte 2020.",
+            "B) Horizonte Europa.",
+            "C) Plan Estratégico 2030.",
+            "D) Europa Investigadora."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "2",
+          "text": "¿Qué pilar de Horizonte Europa incluye al Consejo Europeo de Investigación (ERC)?**",
+          "options": [
+            "A) Pilar 1: Ciencia Excelente.",
+            "B) Pilar 2: Desafíos Globales.",
+            "C) Pilar 3: Europa Innovadora.",
+            "D) Pilar Transversal."
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "3",
+          "text": "Las acciones destinadas a la movilidad y formación del personal investigador se denominan:**",
+          "options": [
+            "A) Acciones Erasmus Science.",
+            "B) Acciones Marie Skłodowska-Curie (MSCA).",
+            "C) Becas Leonardo.",
+            "D) Programa Galileo."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "4",
+          "text": "¿Cuántos clústeres temáticos componen el Pilar 2 de Horizonte Europa?**",
+          "options": [
+            "A) 3.",
+            "B) 6.",
+            "C) 10.",
+            "D) 12."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "5",
+          "text": "¿Qué organismo de la UE proporciona asesoramiento científico independiente y soporte técnico a las políticas comunitarias?**",
+          "options": [
+            "A) EIC.",
+            "B) ERC.",
+            "C) JRC (Joint Research Centre).",
+            "D) EIT."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "6",
+          "text": "El objetivo de una de las \"Misiones\" de Horizonte Europa es tener 100 ciudades climáticamente neutras para el año:**",
+          "options": [
+            "A) 2025.",
+            "B) 2030.",
+            "C) 2040.",
+            "D) 2050."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "7",
+          "text": "¿Qué documento es obligatorio desde 2022 para que un organismo público pueda participar en Horizonte Europa?**",
+          "options": [
+            "A) Un seguro de vida para el rector.",
+            "B) Un Plan de Igualdad de Género (GEP).",
+            "C) Una licencia de software libre.",
+            "D) Un contrato de confidencialidad con la OTAN."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "8",
+          "text": "En Horizonte Europa, la figura que asesora y ayuda a los solicitantes a nivel nacional se llama:**",
+          "options": [
+            "A) Delegado de Área.",
+            "B) Punto Nacional de Contacto (NCP).",
+            "C) Inspector de Ciencia.",
+            "D) Cónsul de Investigación."
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "9",
+          "text": "¿Qué pilar se centra principalmente en la innovación disruptiva y el crecimiento de PYMES?**",
+          "options": [
+            "A) Pilar 1.",
+            "B) Pilar 2.",
+            "C) Pilar 3.",
+            "D) Área de Fortalecimiento del ERA."
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "10",
+          "text": "La obligación de garantizar el libre acceso a las publicaciones financiadas por el programa se enmarca en la política de:**",
+          "options": [
+            "A) Seguridad Nacional.",
+            "B) Ciencia Abierta (Open Science).",
+            "C) Protección de Patentes.",
+            "D) Derechos de Autor restringidos."
+          ],
+          "answer": "B"
+        }
+      ]
+    }
+  ]
+}
