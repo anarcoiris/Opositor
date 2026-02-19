@@ -1,0 +1,39 @@
+# LEY 47/2003 (LGP): LEY GENERAL PRESUPUESTARIA
+
+## 1. El Presupuesto: Concepto
+Los Presupuestos Generales del Estado (PGE) son la expresión cifrada, conjunta y sistemática de:
+- Las **obligaciones** (gastos) que pueden reconocer el Estado y sus organismos.
+- Los **derechos** (ingresos) que se prevean liquidar durante el ejercicio.
+
+## 2. Ámbito (Art. 2-3)
+Se aplica a todo el Sector Público Estatal (Administración, Organismos, Sociedades, Fundaciones).
+
+## 3. Principios Presupuestarios (Art. 26-27)
+- **Estabilidad Presupuestaria:** Equilibrio o superávit (no déficit).
+- **Anualidad:** El ejercicio coincide con el año natural.
+- **Universalidad:** Contiene todos los ingresos y todos los gastos.
+- **Unidad de Caja:** Todos los recursos se centralizan en la Tesorería.
+- **Especialidad:** Los créditos deben usarse para la finalidad y por el importe concedido.
+
+## 4. Estructura de los PGE (Art. 39-41)
+- **Orgánica:** Clasifica el gasto por órganos (Ministerios, Secciones).
+- **Por Programas:** Clasifica según los objetivos que se pretenden alcanzar.
+- **Económica:** Clasifica por naturaleza del gasto (Capítulos):
+    - **Cap. 1:** Gastos de Personal. (Crucial para oposiciones).
+    - **Cap. 2:** Gastos Corrientes en Bienes y Servicios. (Mantenimiento, laboratorios).
+    - **Cap. 4:** Transferencias Corrientes. (Becas).
+    - **Cap. 6:** Inversiones Reales. (Nuevas instalaciones, telescopios).
+
+## 5. Modificaciones de Crédito (Art. 51-60)
+- **Créditos Extraordinarios y Suplementos:** Cuando no hay crédito o es insuficiente.
+- **Ampliaciones:** Créditos que pueden aumentar según la recaudación.
+- **Transferencias:** Traspaso de crédito entre partidas.
+- **Generaciones:** Incremento por ingresos mayores a los previstos.
+- **Incorporaciones:** Pasar crédito no usado del año anterior al actual (remantes).
+
+## 6. Fases de Ejecución del Gasto (Art. 73-79)
+1. **Aprobación (A):** Se decide gastar.
+2. **Compromiso (D):** Se formaliza con un tercero (ej: contrato).
+3. **Reconocimiento de la Obligación (O):** Se acepta que hay que pagar tras recibir el servicio.
+4. **Ordenación del Pago (P):** Se da la orden de transferir el dinero.
+5. **Pago Material:** Salida efectiva de fondos.

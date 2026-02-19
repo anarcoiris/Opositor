@@ -1,0 +1,39 @@
+# LEY 14/2011 Y 17/2022: CIENCIA, TECNOLOGÍA E INNOVACIÓN
+
+## 1. El SECTI (Sistema Español de Ciencia, Tecnología e Innovación)
+- Conjunto de agentes públicos y privados que realizan o financian actividades de I+D+i.
+- **Estrategia Española de Ciencia, Tecnología e Innovación (EECTI):** Marco plurianual de objetivos.
+- **Plan Estatal de Investigación Científica y Técnica y de Innovación:** El instrumento que desarrolla la Estrategia.
+
+## 2. Los Organismos Públicos de Investigación (OPIs) (Art. 47)
+Son agentes públicos del SECTI de carácter estatal que realizan actividades de investigación, desarrollo e innovación.
+- **Lista oficial de OPIs:**
+    1. Agencia Estatal CSIC (Consejo Superior de Investigaciones Científicas).
+    2. IAC (Instituto de Astrofísica de Canarias).
+    3. CIEMAT (Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas).
+    4. INTA (Instituto Nacional de Técnica Aeroespacial "Esteban Terradas").
+    5. IGME (Instituto Geológico y Minero de España) - Integrado en CSIC.
+    6. IEO (Instituto Español de Oceanografía) - Integrado en CSIC.
+    7. INIA (Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria) - Integrado en CSIC.
+    8. ISCIII (Instituto de Salud Carlos III).
+
+## 3. Personal Investigador (Art. 13-32)
+- **Definición:** Quien desarrolla una actividad investigadora profesional.
+- **Novedades Ley 17/2022:**
+    - **Contrato de actividades científico-técnicas:** Laboral indefinido de duración vinculada a la financiación (no OEP).
+    - **Contrato de acceso de personal investigador doctor:** Itinerario hacia la estabilidad.
+    - **Certificado R3:** Reconocimiento de excelencia que facilita el acceso a plazas fijas.
+- **Categorías FUNCIONARIAS en OPIs (Art. 25-30):**
+    - Profesores de Investigación (A1).
+    - Investigadores Científicos (A1).
+    - Científicos Titulares (A1).
+- **Escalas Técnicas (A1 y A2) y de Auxilio (C1):** Fundamentales para el apoyo a la investigación.
+
+## 4. Transferencia de Conocimiento
+- Se fomenta la creación de empresas de base tecnológica (spin-offs) por investigadores.
+- Derecho a participar en los beneficios de la explotación de patentes.
+- **Excedencia temporal** para incorporarse a agentes de ejecución privados.
+
+## 5. Ciencia Abierta (Open Science) (Art. 37)
+- El personal investigador cuyo trabajo se financie mayoritariamente con fondos públicos debe depositar una copia de la versión final de sus publicaciones en **repositorios de acceso abierto**.
+- Fomento del acceso abierto a los datos de investigación.

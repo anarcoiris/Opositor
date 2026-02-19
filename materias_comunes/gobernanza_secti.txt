@@ -1,0 +1,24 @@
+# GOBERNANZA DEL SECTI E INSTITUCIONES (Temas 10-12)
+
+## 1. El Ministerio de Ciencia, Innovación y Universidades
+- **RD 472/2024:** Establece la estructura actual.
+- **Órganos Superiores:**
+    - Ministro/a.
+    - Secretario/a de Estado de Ciencia, Innovación y Universidades.
+- **Órganos Directivos Clave:**
+    - Secretaría General de Investigación.
+    - Secretaría General de Innovación.
+    - Secretaría General de Universidades.
+- **Funciones:** Planificación estatal (PEICTI), gestión de fondos europeos, coordinación de OPIs y política universitaria.
+
+## 2. Los Organismos Públicos de Investigación (OPIs) en detalle
+- **CSIC:** Multidisciplinar. El más grande. Estructura de Agencia Estatal.
+- **INTA:** Depende de Defensa, pero es OPI. Investigación aeroespacial, naval y de defensa.
+- **CIEMAT:** Energía, medio ambiente y tecnología.
+- **ISCIII:** Salud pública e investigación biomédica.
+- **IAC:** Astrofísica. Consorcio público con participación de la C.A. de Canarias.
+
+## 3. CCAA y Universidades en el SECTI
+- **Comunidades Autónomas:** Tienen competencias en fomento de la investigación. Participan en el Consejo de Política Científica.
+- **Universidades:** Realizan la mayor parte de la investigación básica. Tienen autonomía universitaria pero se integran en el sistema nacional de ciencia.
+- **Transferencia:** Oficinas de Transferencia de Resultados de Investigación (OTRI) en universidades y OPIs.

@@ -1,0 +1,34 @@
+# EUROPA E I+D: ESTRATEGIA Y PROGRAMA MARCO (Temas 13-15)
+
+## 1. El Espacio Europeo de Investigación (ERA)
+- **Concepto:** Mercado único de la investigación y la tecnología en la UE.
+- **Objetivos:** Libre circulación de investigadores, conocimientos y tecnología.
+- **Agenda de Políticas del ERA 2022-2024:** 20 acciones clave (reforma de la evaluación de la investigación, ciencia abierta, etc.).
+
+## 2. Horizonte Europa (2021-2027)
+Sustituye a Horizonte 2020. Es el 9º Programa Marco de I+I de la UE.
+- **Presupuesto:** ~95.500 M€.
+- **Estructura de los 3 Pilares:**
+    1. **Pilar 1: Ciencia Excelente.**
+        - ERC (Consejo Europeo de Investigación).
+        - MSCA (Acciones Marie Skłodowska-Curie).
+        - Infraestructuras de investigación.
+    2. **Pilar 2: Desafíos Globales y Competitividad Industrial.**
+        - Se organiza en 6 Clústeres (Salud, Cultura, Seguridad, Digital/Espacio, Clima, Alimentación).
+        - JRC (Joint Research Centre).
+    3. **Pilar 3: Europa Innovadora.**
+        - EIC (Consejo Europeo de Innovación).
+        - EIT (Instituto Europeo de Innovación y Tecnología).
+
+## 3. Misiones de Horizonte Europa
+Nuevas herramientas para resolver grandes retos sociales para 2030:
+1. Adaptación al cambio climático.
+2. Cáncer.
+3. Restaurar nuestros océanos y aguas.
+4. Ciudades inteligentes y climáticamente neutras.
+5. Un pacto sobre el suelo para Europa.
+
+## 4. Gestión de Ayudas y Participación Española
+- **Model Grant Agreement (MGA):** Contrato tipo que regula las ayudas.
+- **Financiación:** Generalmente basada en el reembolso de costes reales (70-100%) o cantidades a tanto alzado (lump sums).
+- **Entidades vinculadas:** En España, la Agencia Estatal de Investigación y el CDTI actúan como Puntos Nacionales de Contacto (NCP).
